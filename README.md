@@ -1,14 +1,20 @@
-#  boomi's SFV Blog
+#  Boomi's Street Fighter Blog
 
-A simple blog that describes my journey in SFV
+A simple blog that describes my journey in Street Fighter.
 
 ## CFN
 
-User code for SF6: 1529206067
+### SF6
 
-I can be found on capcom's fighting network here:
+[SF6 Profile](https://www.streetfighter.com/6/buckler/profile/1529206067): 1529206067
 
-Here [boomiFGC_PC](https://game.capcom.com/cfn/sfv/profile/boomiFGC_PC?lang=en) and here [boomi_ps5](https://game.capcom.com/cfn/sfv/profile/boomi_ps5?lang=en)
+### SF5
+
+[boomiFGC_PC](https://game.capcom.com/cfn/sfv/profile/boomiFGC_PC?lang=en) and here [boomi_ps5](https://game.capcom.com/cfn/sfv/profile/boomi_ps5?lang=en)
+
+## Develop locally
+
+Run `bundle exec jekyll serve`
 
 ---
-_Powered by [jeffrey](http://jeffwayne.io/)_
+_Powered by [jeffrey](http://jeffwayne.me/)_
