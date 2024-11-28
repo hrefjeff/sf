@@ -8,3 +8,5 @@ gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
 gem "jekyll-watch"
 gem "em-websocket"
+
+gem "jekyll", "~> 4.3"
