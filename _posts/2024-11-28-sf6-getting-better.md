@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I went about getting better at SF6
+title: Getting better at SF6
 date: 2024-11-28 12:00:00 -0500
 ---
 
