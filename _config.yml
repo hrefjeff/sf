@@ -1,12 +1,12 @@
 # Site settings
-name: boomi
+name: Boomi
 email: jeffwayne256@gmail.com
 url: url
 description: "A blog and a matchup description"
-author: "boomi"
-title: "Boomi's SFV Journey"
+author: "Boomi"
+title: "Boomi's Street Figther Journey"
 permalink: pretty
-baseurl: /sfv
+baseurl: /sf
 
 # social
 github:
