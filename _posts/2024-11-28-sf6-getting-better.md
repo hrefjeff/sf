@@ -4,9 +4,9 @@ title: Getting better at SF6
 date: 2024-11-28 12:00:00 -0500
 ---
 
-I made it a goal in a previous post to explain something I didn't understand when I first started SF5. So today's topic will be "How to improve in SF5" since it is one of the things I am still trying to get my head wrapped around. The aim of this goal has 2 parts. First, by sharing my personal experience of banging my head against a wall I will hopefully save some else some bruises along the way in this process. Secondly, it is an evaluation of myself to see if I'm using all of my resources to get better and using them to the best of my ability.
+This post is an updated version of the <a href="https://hrefjeff.github.io/sf/2019/05/15/getting-better/" target="_blank">"getting better at Street Fighter 5 post"</a> I did a while back. The aim of this goal has 2 parts: First, to share my personal experience. I've banged my head against a wall and I hope save some else some bruises along the way in this process. Second: it is an evaluation of myself to see if I'm using all of my resources to get better and using them to the best of my ability.
 
-Recently, my friend <a href="https://twitter.com/yizzyFGC" target="_blank">yizzyFGC</a> shared a video with me on getting better in Street Fighter 5. It's called "7 Tips For Improving In SFV" and can be found by clicking <a href="https://www.youtube.com/watch?v=B7qFzQF9Iw8" target="_blank">here</a>. In my time with SF5 I have touched on each one of these points at least once and I'd like to share my experiences with each step and put my 2 cents in on the topics. Overview of topics:
+Without further ado, here is how we get better at SF6:
 
   Step 0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)<br>
   Step 1. [Study your replays](#head1)<br>
