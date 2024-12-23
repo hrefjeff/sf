@@ -10,24 +10,23 @@ Without further ado, here is how we get better at SF6:
 
 Step 0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)<br>
 
-  Section 1: The Future
-  Section 2: The Present
-  Section 3: The Past
-  Step 1. [Study your replays](#head1)<br>
-  Step 2. [Search for replays](#head2)<br>
-  Step 3. [Find a favorite to learn from](#head3)<br>
-  Step 4. [Muscle memory drills](#head4)<br>
-  Step 5. [Learn matchups in detail](#head5)<br>
-  Step 6. [Sharpen your reactions](#head6)<br>
-  Step 7. [Take notes/set goals](#head7)<br>
-  Step 8. [Accept responsibility](#head8)<br>
-  Step 9. [Other things or stuff that deserve a whole post on their own](#head9)<br>
+Section 1: The Future
+
+Section 2: The Present
+
+Section 3: The Past
+
+Step 1. [Study your replays](#head1)<br>
+Step 2. [Search for replays](#head2)<br>
+Step 3. [Find a favorite to learn from](#head3)<br>
+Step 4. [Muscle memory drills](#head4)<br>
+Step 5. [Learn matchups in detail](#head5)<br>
+Step 6. [Sharpen your reactions](#head6)<br>
+Step 7. [Take notes/set goals](#head7)<br>
+Step 8. [Accept responsibility](#head8)<br>
+Step 9. [Other things or stuff that deserve a whole post on their own](#head9)<br>
 
 ### <a name="head0"></a>Step 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
-
-
-
-https://x.com/ultradavid/status/1745282780937028005
 
 If you have the privilege to attend an offline local fighting game meet up... **GET OUT THERE AND ATTEND!** This is where you'll find yourself among friends who share your excitement for all things related to fighting games. Whether you're a seasoned veteran or just starting out, there is a place where fighting game enthusiasts meet up and is the perfect place to discuss strategies, share tips, and engage in digital battle. I attribute my small successes in fighting games to my local fight scene for teaching me about fighting games in general. Ultradavid on twitter (or X, whatever you want to call it) has kept up a spreadsheet of over 500 offline locations that host offline locals. You can find that <a href="https://x.com/ultradavid/status/1745282780937028005" target="_blank">here</a>.
 
