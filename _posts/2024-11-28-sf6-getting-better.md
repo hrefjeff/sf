@@ -10,12 +10,6 @@ Without further ado, here is how we get better at SF6:
 
 Step 0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)<br>
 
-Section 1: The Future
-
-Section 2: The Present
-
-Section 3: The Past
-
 Step 1. [Study your replays](#head1)<br>
 Step 2. [Search for replays](#head2)<br>
 Step 3. [Find a favorite to learn from](#head3)<br>
@@ -32,19 +26,20 @@ If you have the privilege to attend an offline local fighting game meet up... **
 
 ### <a name="head1"></a>Step 1. Study your replays
 
-I wholeheartedly agree with studying replay of yourself because of the great job Capcom has done with SFV's replay cabilities. I'll constantly go to CFN (capcom fighter's network) in the game and watch replays with both of the options "_key display_" and "_frame data_" turned on. Watching replays of your losses provided me a great basis for what I needed to work on. I recently learned Chris Tatarian (a SoCal Ken player) where he searches for one of his past replays that dates back to to a couple days or weeks prior to help him get an objective outlook on a replay. I was amazed by how many tendencies I found that I didn't know I had.
+Capcom has done amazing with SF6's replay cabilities. They implemented **replay takeover** which gives you the ability to watch a replay and takeover a character in any situation. I'll constantly go to CFN (capcom fighter's network) in the game and watch replays with both of the options "_key display_" and "_frame data_" turned on. Watching replays of your losses provided me a great basis for what I needed to work on. Unless you have 100% life at the end of the round, you always have something to work on.
   
-"But Jeffrey, what am I supposed to be looking for in my a replays!?" I'm glad you asked! I'll analyze my game by watching my replay in 2 phases. The first time I watch the replay, I'll watch it full speed and without interruption/pauses to get a wholistic view of what's going on in the match. Then I'll watch it a 2nd time and target any specific details I could work on. The details I find most important and helpful in getting better is by using 
-<a href="https://www.youtube.com/watch?v=SJV-K0rLOC0" target="_blank">Frame Advantages' approach</a>. So I'll do what Tyrant and Packz recommend which is to answer these 3 questions when watching the replays:
+"But Boomi, what am I supposed to be looking for in my a replays!?" I'm glad you asked! I'll analyze my game by watching my replay in 2 phases. The first time I watch the replay, I'll watch it full speed and without interruption/pauses to get a wholistic view of what's going on in the match. Then I'll watch it a 2nd time and target any specific details I could work on. The details I find most important and helpful in getting better is by using 
+<a href="https://www.youtube.com/watch?v=SJV-K0rLOC0" target="_blank">Frame Advantages' approach</a>. I'll do what Tyrant and Packz recommend which is to answer these 3 questions when watching the replays:
+  
   * How did I take damage?
   * How can I optimize my damage?
   * How did I get into the bad situation in the first place?
 
 ### <a name="head2"></a>2. Search for replays
 
-I always make sure to find people who are more skilled than I am. When I started out with SF5 I would search for all the godlike players in the game and try to learn from them. What I ended up finding out myself is that I improved the most when I started viewing replays of someone who is a little bit or moderately more skilled relative to where I was. When I would watch replays of high level players (Grand masters and above when I was a rookie/bronze player), they would make decisions and movements that were completely out of context to me. I couldn't follow their rationale. However, when I started watching replays from a player that was slightly/moderately more skilled than I was I would be able to recognize the flow of situtations. It started becoming a conversation of "Oh snap, I see what he did there. That's smart." Or "Oh they dun goofed. Let's see what play they make to recover."
+The reality is there's always someone out there better than you. When I started out with SF6 I would search for all the godlike players in the game and try to learn from them. What I ended up finding out myself is that I improved the most when I started viewing replays of someone who is a little bit or moderately more skilled relative to where I was. When I would watch replays of high level players (Grand masters and above when I was a rookie/bronze player), they would make decisions and movements that were completely out of context to me. I couldn't follow their rationale. However, when I started watching replays from a player that was slightly/moderately more skilled than I was I would be able to recognize the flow of situtations. It started becoming a conversation of "Oh snap, I see what he did there. That's smart." Or "Oh they dun goofed. Let's see what play they make to recover." The key to this step is to be honest with yourself and recognize where your current skill level is and then work your way up to higher skill levels.
     
-If I'm having trouble developing a strategy against a certain character or generally struggling with a match up, I get my ass on Youtube!! Search "Street fighter 5 <u>_**insert your character name here**_</u> vs <u>_**insert other character name here**_"</u>. There are plenty of players who are eager to upload their highlights of them bodying other characters that you can learn from. Also, CFN has this cool search feature in game where you can filter replays by character and league points. It's super helpful and wish I had known about it sooner.
+If I'm having trouble developing a strategy against a certain character or generally struggling with a match up, I get my ass on Youtube!! Open up youtube and use this search term: "Street fighter 6 _**insert your character name here**_ vs _**insert other character name here**_. There are plenty of people who are eager to upload highlights of them bodying other characters that you can learn from. Also, CFN has this cool search feature in game where you can filter replays by character and league points. It's super helpful and wish I had known about it sooner.
     
 ### <a name="head3"></a>3. Find a favorite to learn from
 
