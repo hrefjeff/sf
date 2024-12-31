@@ -4,7 +4,9 @@ title: Getting better at SF6
 date: 2024-11-28 12:00:00 -0500
 ---
 
-This post is an updated version of the <a href="https://hrefjeff.github.io/sf/2019/05/15/getting-better/" target="_blank">"getting better at Street Fighter 5 post"</a> I did a while back. I've banged my head against a wall trying to improve and I hope to save some else some bruises along the way in this process. Before we begin though, imagine a pilot flying a plane from L.A. in California to New York City and someone adjusts the flight path by 3.5 degrees south just before takeoff. The change is barely noticeable at takeoff, but the plane ends up landing in Washington, D.C. instead of New York City. That's 220 miles (or 350 kilometers to my imperial folk) from the destination. Now imagine this for improvement. If there is a misdirection when starting out doing something, you'll eventually have to correct it down the road. The point is: try to start any journey you make in the best way possible to set yourself up for success.
+This post is an updated version of the <a href="https://hrefjeff.github.io/sf/2019/05/15/getting-better/" target="_blank">"getting better at Street Fighter 5 post"</a> I did a while back. I've banged my head against a wall trying to improve and I hope to save some else some bruises along the way in this process. 
+
+Before we begin though, imagine a pilot flying a plane from Los Angeles to New York City and someone adjusts the flight path by 3.5 degrees south just before takeoff. The change is barely noticeable at takeoff, but the plane ends up landing in Washington, D.C. instead of New York City. That's 220 miles (or 350 kilometers to my imperial folk) from the destination. Now imagine this for improvement. If there is a slight misdirection when starting out doing something, you'll eventually have to correct it down the road. The point is: try to start any journey you make in the best way possible to set yourself up for success.
 
 Without further ado, here is how we get better at SF6:
 
