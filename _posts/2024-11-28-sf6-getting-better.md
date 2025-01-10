@@ -24,7 +24,7 @@ Step 9. [Other things or stuff that deserve a whole post on their own](#head9)<b
 
 ### <a name="head0"></a>Step 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
 
-If you have the privilege to attend an offline local fighting game meet up... **GET OUT THERE AND ATTEND!** This is where you'll find yourself among friends who share your excitement for all things related to fighting games. Whether you're a seasoned veteran or just starting out, there is a place where fighting game enthusiasts meet up and is the perfect place to discuss strategies, share tips, and engage in digital battle. I attribute my small successes in fighting games to my local fight scene for teaching me about fighting games in general. Ultradavid on twitter (or X, whatever you want to call it) has kept up a spreadsheet of over 500 offline locations that host offline locals. You can find that <a href="https://x.com/ultradavid/status/1745282780937028005" target="_blank">here</a>.
+If you have the privilege to attend an offline local fighting game meet up... **GET OUT THERE AND ATTEND!** This is where you'll find yourself among friends who share your excitement for all things related to fighting games. Whether you're a seasoned veteran or just starting out, there is a place where fighting game enthusiasts meet up and is the perfect place to discuss strategies, share tips, and engage in digital battle. **But where do I find a local close to me??** GLAD YOU ASKED! Ultradavid on twitter (or X, whatever you want to call it) has kept up a spreadsheet of over 500 offline locations that host offline locals. You can find that <a href="https://x.com/ultradavid/status/1745282780937028005" target="_blank">here</a>.
 
 ### <a name="head1"></a>Step 1. Study your replays
 
