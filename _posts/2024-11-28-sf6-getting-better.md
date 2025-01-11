@@ -50,7 +50,7 @@ Until we are winning premiere and major tournmanets there is always someone bett
 
 Training mode. Training mode. Training mode. It's a very powerful tool to build MUSCLE POWER... err... I mean muscle memory. In my opinion you're never too good to go back to fundamentals. All the greatest individuals that practice their craft will practice day 1 stuff so it becomes second nature so they won't have to think about it when the situation arises. 
 
-https://en.wikipedia.org/wiki/Pomodoro_Technique
+<a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro technique</a>
 
 ### <a name="head5"></a>5. Learn matchups in detail
 
@@ -70,7 +70,7 @@ So taking notes and writing things down can help in setting goals. My goals in t
     
 ### <a name="head8"></a>8. Accept responsibility
  
-This isn't in the video and I won't speak too much on this subject. I just believe it is worth mentioning. I try to accept responsibility and hold myself accountable for my own decisions and actions. I ask questions all day but relying on the phrase "I haven't learned that yet" or "No one told me about that" only took me so far. I play my game with the philosphy of, "Play as if you are a master, but learn like you are a student."
+Accept responsibility and hold yourself accountable for your own decisions and actions. Ask questions all day, but relying on the phrase "I haven't learned that yet" or "No one told me about that" will only take a player so far. It's best to approach the game with the philosphy of, "Play as if you are a master, but learn like you are a student."
 
 ### <a name="head9"></a>9. Other things or stuff that deserve a whole post on their own
     
