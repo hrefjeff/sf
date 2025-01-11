@@ -11,14 +11,13 @@ Before we begin though, imagine a pilot flying a plane from Los Angeles to New Y
 Without further ado, here is how we get better at SF6:
 
 Step 0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)<br>
-
-Step 1. [Study your replays](#head1)<br>
-Step 2. [Search for replays](#head2)<br>
-Step 3. [Find a favorite to learn from](#head3)<br>
-Step 4. [Muscle memory drills](#head4)<br>
-Step 5. [Learn matchups in detail](#head5)<br>
+Step 1. [Take notes/set goals](#head7)<br>
+Step 2. [Study your replays](#head1)<br>
+Step 3. [Search for replays](#head2)<br>
+Step 4. [Find a favorite to learn from](#head3)<br>
+Step 5. [Muscle memory drills](#head4)<br>
 Step 6. [Sharpen your reactions](#head6)<br>
-Step 7. [Take notes/set goals](#head7)<br>
+Step 7. [Learn matchups in detail](#head5)<br>
 Step 8. [Accept responsibility](#head8)<br>
 Step 9. [Other things or stuff that deserve a whole post on their own](#head9)<br>
 
