@@ -11,21 +11,29 @@ Before we begin though, imagine a pilot flying a plane from Los Angeles to New Y
 Without further ado, here is how we get better at SF6:
 
 Step 0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)<br>
-Step 1. [Take notes/set goals](#head7)<br>
+Step 1. [Just play lol](#head1)<br>
 Step 2. [Study your replays](#head1)<br>
 Step 3. [Search for replays](#head2)<br>
 Step 4. [Find a favorite to learn from](#head3)<br>
-Step 5. [Muscle memory drills](#head4)<br>
+Step 5. [Take notes/set goals](#head4)<br>
+Step 5. [Muscle memory drills](#head5)<br>
 Step 6. [Sharpen your reactions](#head6)<br>
-Step 7. [Learn matchups in detail](#head5)<br>
+Step 7. [Learn matchups in detail](#head7)<br>
 Step 8. [Accept responsibility](#head8)<br>
-Step 9. [Other things or stuff that deserve a whole post on their own](#head9)<br>
 
 ### <a name="head0"></a>Step 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
 
 If you have the privilege to attend an offline local fighting game meet up... **GET OUT THERE AND ATTEND!** This is where you'll find yourself among friends who share your excitement for all things related to fighting games. Whether you're a seasoned veteran or just starting out, there is a place where fighting game enthusiasts meet up and is the perfect place to discuss strategies, share tips, and engage in digital battle. **But where do I find a local close to me??** GLAD YOU ASKED! Ultradavid on twitter (or X, whatever you want to call it) has kept up a spreadsheet of over 500 offline locations that host offline locals. You can find that <a href="https://x.com/ultradavid/status/1745282780937028005" target="_blank">here</a>.
 
-### <a name="head1"></a>Step 1. Study your replays
+### <a name="head1"></a>Step 1. Just play lol
+
+In order to get better you have to put in the time and effort. That means actually playing the game. A general consensus that I'm finding is people who get better put in **ATLEAST** 30 minutes of highly focused training or 2 hours of general training a day. I'd say 7-10 hours a week of hands on controller spread across an entire week would be great to start.  
+
+Then there's the holy trinity where you should spend your time playing. 1. Battle Lounge. 2. Ranked. 3. Training Mode. Split your time evenly across these 3 modes because each one feeds on the other. 
+
+Before setting out this journey, understand that you're just starting out so don't be hard on yourself. Maybe you already got a little time under your belt. Now let's take MenaRD. The GOAT of street fighter. He's most definitely got 10,000+ hours in the game. Imagine the pie chart where there are 2 sections that represent yours and his next to each other. Your 1% sliver versus his 99% chonk. You can easily visualize why you shouldn't be hard on yourself because he has put the time in to this than you have.
+
+### <a name="head2"></a>Step 2. Study your replays
 
 Capcom has done amazing with SF6's replay cabilities. They implemented **replay takeover** which gives you the ability to watch a replay and takeover a character in any situation. I'll constantly go to CFN (capcom fighter's network) in the game and watch replays with both of the options "_key display_" and "_frame data_" turned on. Watching replays of your losses provided me a great basis for what I needed to work on. Unless you have 100% life at the end of the round, you always have something to work on.
   
@@ -36,7 +44,7 @@ Capcom has done amazing with SF6's replay cabilities. They implemented **replay 
   * How can I optimize my damage?
   * How did I get into the bad situation in the first place?
 
-### <a name="head2"></a>2. Search for replays
+### <a name="head3"></a>3. Search for replays
 
 The reality is there's always someone out there better than you. When I started out with SF6 I would search for all the godlike players in the game and try to learn from them. What I ended up finding out myself is that I improved the most when I started viewing replays of someone who is a little bit or moderately more skilled relative to where I was. When I would watch replays of high level players (Grand masters and above when I was a rookie/bronze player), they would make decisions and movements that were completely out of context to me. I couldn't follow their rationale. However, when I started watching replays from a player that was slightly/moderately more skilled than I was I would be able to recognize the flow of situtations. It started becoming a conversation of "Oh snap, I see what he did there. That's smart." Or "Oh they dun goofed. Let's see what play they make to recover." The key to this step is to be honest with yourself and recognize where your current skill level is and then work your way up to higher skill levels.
     
@@ -52,26 +60,23 @@ Training mode. Training mode. Training mode. It's a very powerful tool to build 
 
 <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro technique</a>
 
-### <a name="head5"></a>5. Learn matchups in detail
+### <a name="head5"></a>5. Take notes/set goals
 
-I don't do this to the extent I should. It is definitely something I can work on. There are levels to everything but this is one where you can go deep down the rabit hole. I'd generally start with myself and my character. What attacks are plus on block? How does my hurtbox behave when throwing out a certain move? At what range does my character operate most effectively? Answering these questions will help you develop a sense of self-awareness on what you should and shouldn't do.
+The way I take notes is on google docs. I'll make notes of my performance at the end of the day so I can visually keep track of my progress/mistakes. It's hard for me to reflect on specific details when they're all in my head. I have to write it out or type it out whenever possible.
     
-I'll go on down the list of opponenents I have faced and for each one try and figure out how my character can correctly respond with an opponents array of moves. The goal is to get to the point where you can automatically recognize what buttons you should rely on most and how you can use characters strengths to overcome the opponent. For instance, I recently learned more about the Karin Vs. Laura matchup. Laura has to play very risky because her buttons are not as good as Karin's in the neutral range. So in using that information that will set me up to look for dashes and overheads more than usual because that's her general effective game plan.
+So taking notes and writing things down can help in setting goals. My goals in the beginning were things like consistenly land a punish combo. If I'm getting countered alot, stop pressing a button or doing the move and evaluate why I'm getting hit. Your goals will make you a stronger player when it's time to perform against other folks. I enter into tournaments all the time to evaluate what I've been working on. Reddit hosts an online tournment every Monday. I do this as a measure of what I've been working on. Everyone is different though. Competition is not everything. It is just my ninja way.
+
 
 ### <a name="head6"></a>6. Sharpen reactions
 
 This is another thing I need to work on. Go the the lab and set the dummy to either jump in, walk in, press a button, or do a special move. Challenge yourself to counter or successfully nullify their movements consistently.
 
-### <a name="head7"></a>7. Take notes/set goals
+### <a name="head7"></a>7. Learn matchups in detail
 
-The way I take notes is with a journal. I'll make notes of my performance at the end of the day so I can visually keep track of my progress/mistakes. When all the details are in my head, it's hard for me to reflect upon. I have to get it out on paper. Or even in a blog, similar to the one I'm writing for people to read right now.
+With every level, there's a different devel. This is step is where you figure out that the rabbit hole goes deep. I'd generally start with myself and my character. What attacks are plus on block? How does my hurtbox behave when throwing out a certain move? At what range does my character operate most effectively? Answering these questions will help you develop a sense of self-awareness on what you should and shouldn't do.
     
-So taking notes and writing things down can help in setting goals. My goals in the beginning were things like consistenly land a punish combo. If I'm getting countered alot, stop pressing a button or doing the move and evaluate why I'm getting hit. Your goals will make you a stronger player when it's time to perform against other folks. I enter into tournaments all the time to evaluate what I've been working on. Reddit hosts an online tournment every Monday. I do this as a measure of what I've been working on. Everyone is different though. Competition is not everything. It is just my ninja way.
-    
+I'll go on down the list of opponenents I have faced and for each one try and figure out how my character can correctly respond with an opponents array of moves. The goal is to get to the point where you can automatically recognize what buttons you should rely on most and how you can use characters strengths to overcome the opponent. For instance, I recently learned more about the Ken Vs. JP matchup. Ken's effective range is just outside of his stHK range because JP dominates with his stHP and OD ghost. So maintaining space and rotating all the options Ken has to bully an opponent at that range is best. It'd be different than someone like Akuma or even Jamie.
+
 ### <a name="head8"></a>8. Accept responsibility
  
-Accept responsibility and hold yourself accountable for your own decisions and actions. Ask questions all day, but relying on the phrase "I haven't learned that yet" or "No one told me about that" will only take a player so far. It's best to approach the game with the philosphy of, "Play as if you are a master, but learn like you are a student."
-
-### <a name="head9"></a>9. Other things or stuff that deserve a whole post on their own
-    
-Get social. Join a discord. Find a google doc that is maintained by a community about a specific character (like the <a href="https://docs.google.com/document/d/1aBEIXYX51TmdEZ_nh6dydHxJXwED7kZNsfLKENanca0/" target="_blank">R.Mika bible</a>).
+Accept responsibility and hold yourself accountable for your own decisions and actions. Don't hesitate to ask questions all day. However, relying on the phrase "I haven't learned that yet" or "No one told me about that" will only take a player so far. It's best to approach the game with the philosphy of, "Play as if you are a master, but learn like you are a student."
