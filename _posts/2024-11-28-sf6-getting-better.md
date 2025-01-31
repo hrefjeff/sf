@@ -110,7 +110,7 @@ This is another thing I need to work on. Go the the lab and set the dummy to eit
 
 ### <a name="head8"></a>8. Learn matchups in detail
 
-With every level, there's a different devel. This is step is where you figure out that the rabbit hole goes deep. I'd generally start with myself and my character. What attacks are plus on block? How does my hurtbox behave when throwing out a certain move? At what range does my character operate most effectively? Answering these questions will help you develop a sense of self-awareness on what you should and shouldn't do.
+With every level, there's a different devil. This is step is where you figure out that the rabbit hole goes deep. I'd generally start with myself and my character. What attacks are plus on block? How does my hurtbox behave when throwing out a certain move? At what range does my character operate most effectively? Answering these questions will help you develop a sense of self-awareness on what you should and shouldn't do.
     
 I'll go on down the list of opponenents I have faced and for each one try and figure out how my character can correctly respond with an opponents array of moves. The goal is to get to the point where you can automatically recognize what buttons you should rely on most and how you can use characters strengths to overcome the opponent. For instance, I recently learned more about the Ken Vs. JP matchup. Ken's effective range is just outside of his stHK range because JP dominates with his stHP and OD ghost. So maintaining space and rotating all the options Ken has to bully an opponent at that range is best. It'd be different than someone like Akuma or even Jamie.
 
