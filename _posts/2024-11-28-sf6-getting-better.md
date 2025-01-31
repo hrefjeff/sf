@@ -54,9 +54,46 @@ If I'm having trouble developing a strategy against a certain character or gener
 
 Until we are winning premiere and major tournmanets there is always someone better than you and out-hussling you. Learn a lesson from them. I, myself, subscribe to a bunch of people and join their twitch streams/discord chats all the time. It's good practice to view the ways of the world and get an outside perspective. This gets into the social aspect of the game where I describe later.
 
-### <a name="head5"></a>6. Muscle memory drills
+### <a name="head5"></a>5. Muscle memory drills
 
-Training mode. Training mode. Training mode. It's a very powerful tool to build MUSCLE POWER... err... I mean muscle memory. In my opinion you're never too good to go back to fundamentals. All the greatest individuals that practice their craft will practice day 1 stuff so it becomes second nature so they won't have to think about it when the situation arises. 
+<a href="https://x.com/Magnegro_">Magnegro</a>, One of the GOATS of Alabama FGC, is who I'm going to reference in this section. I chose to share an exerpt of his words because my sentiments are exactly the same when it comes to this but he's done a way better job of articulating it. So here it goes:
+
+One thing I've been trying to prioritize in my training as of late is more focused training and drills. I noticed there's far too many times where I have suboptimal combos, miss punishes, execution errors, etc. So I've been trying to clean this up by setting up a training regimen that I try to do everyday. Of course, you won't get to everything everyday, but you should at least try to do some things off your list each day you play.
+
+#### Execution
+
+This is a mixture of just doing your special moves on each side. 10 reps P1/P2 side. You can prioritize this as much as needed or hone in on more specific issues you run into. A general example would be:
+
+* Quarter circle forward 10x both sides
+* Quarter circle back 10x both sides
+* Dragon punch 10x both sides
+* Double QCF 10x both sides
+* Double QCF 10x both side
+
+You can maybe do less of the drills from a neutral position if that's not an issue for you (I just do them out of habit since it's very easy and doesn't take long) and focus on more specific drills if you run into quirks doing any of these motions at certain points while playing (doing QCF from walking forward, holding down back and doing QCF, crouching DPs on your weaker side, etc.). 
+
+You can also practice more niche execution things here like doing DP OS on drive rush cancels, reacting to DIs with super while in burnout while blocking, or instant drive rush. It's really up to you, but just think of situations that come up where you feel like you have issues getting a specific input you need and trying to replicate that situation. 
+
+#### Hit Confirming
+
+This can also be highly specific based on your character but at a minimum, you should be doing this:
+
+* Press your best drive rush cancel buttons
+* On hit, go into your optimal starter
+* On block, keep it a block string
+
+Then there's other layers beyond this for some characters. Maybe your button from drive rush cancel on block sets up another hit confirm string you can practice or when you drive rush cancel you button on hit you want to do a more optimal starter if your button counter hits or punish counters.
+
+You can also use this to practice your single hit confirms. Some characters have heavy normals you can single hit confirm (usually 17f cancel window or higher).
+
+#### Character Specific Training
+
+This can include alot of things but I would focus on specific things against the character that give you issues.
+
+* Whiff punishing
+* Punishing reactable moves (Ken Dragon Lash, Honda Headbutt/Buttslam, Rashid HP Arabian Cyclone, etc.) This can be with DI or parry, whatever is more reliable for you.
+* Drills against knowledge checks. An example of this is Blanka alternating HP & LP Blanka ball. Stand at the range where LP blanka ball would whiff and punish and go for PP on HP Blanka ball. There's more examples of this spread out through he game, so just keep these things in mind while playing.
+* Drive rush checking
 
 <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro technique</a>
 
