@@ -95,7 +95,7 @@ This can include alot of things but I would focus on specific things against the
 * Drills against knowledge checks. An example of this is Blanka alternating HP & LP Blanka ball. Stand at the range where LP blanka ball would whiff and punish and go for PP on HP Blanka ball. There's more examples of this spread out through he game, so just keep these things in mind while playing.
 * Drive rush checking
 
-<a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro technique</a>
+Pair all these drills with time boxed <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro technique</a> and you'll be optimal in no time.
 
 ### <a name="head6"></a>6. Take notes/set goals
 
