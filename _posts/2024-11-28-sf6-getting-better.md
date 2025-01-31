@@ -12,14 +12,14 @@ Without further ado, here is how we get better at SF6:
 
 Step 0. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head0)<br>
 Step 1. [Just play lol](#head1)<br>
-Step 2. [Study your replays](#head1)<br>
-Step 3. [Search for replays](#head2)<br>
-Step 4. [Find a favorite to learn from](#head3)<br>
-Step 5. [Take notes/set goals](#head4)<br>
-Step 5. [Muscle memory drills](#head5)<br>
-Step 6. [Sharpen your reactions](#head6)<br>
-Step 7. [Learn matchups in detail](#head7)<br>
-Step 8. [Accept responsibility](#head8)<br>
+Step 2. [Study your replays](#head2)<br>
+Step 3. [Search for replays](#head3)<br>
+Step 4. [Find a favorite to learn from](#head4)<br>
+Step 5. [Take notes/set goals](#head5)<br>
+Step 6. [Muscle memory drills](#head6)<br>
+Step 7. [Sharpen your reactions](#head7)<br>
+Step 8. [Learn matchups in detail](#head8)<br>
+Step 9. [Accept responsibility](#head9)<br>
 
 ### <a name="head0"></a>Step 0. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
 
@@ -50,33 +50,33 @@ The reality is there's always someone out there better than you. When I started 
     
 If I'm having trouble developing a strategy against a certain character or generally struggling with a match up, I get my ass on Youtube!! Open up youtube and use this search term: "Street fighter 6 _**insert your character name here**_ vs _**insert other character name here**_. There are plenty of people who are eager to upload highlights of them bodying other characters that you can learn from. Also, CFN has this cool search feature in game where you can filter replays by character and league points. It's super helpful and wish I had known about it sooner.
     
-### <a name="head3"></a>3. Find a favorite to learn from
+### <a name="head4"></a>4. Find a favorite to learn from
 
 Until we are winning premiere and major tournmanets there is always someone better than you and out-hussling you. Learn a lesson from them. I, myself, subscribe to a bunch of people and join their twitch streams/discord chats all the time. It's good practice to view the ways of the world and get an outside perspective. This gets into the social aspect of the game where I describe later.
 
-### <a name="head4"></a>4. Muscle memory drills
+### <a name="head5"></a>6. Muscle memory drills
 
 Training mode. Training mode. Training mode. It's a very powerful tool to build MUSCLE POWER... err... I mean muscle memory. In my opinion you're never too good to go back to fundamentals. All the greatest individuals that practice their craft will practice day 1 stuff so it becomes second nature so they won't have to think about it when the situation arises. 
 
 <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro technique</a>
 
-### <a name="head5"></a>5. Take notes/set goals
+### <a name="head6"></a>6. Take notes/set goals
 
 The way I take notes is on google docs. I'll make notes of my performance at the end of the day so I can visually keep track of my progress/mistakes. It's hard for me to reflect on specific details when they're all in my head. I have to write it out or type it out whenever possible.
     
 So taking notes and writing things down can help in setting goals. My goals in the beginning were things like consistenly land a punish combo. If I'm getting countered alot, stop pressing a button or doing the move and evaluate why I'm getting hit. Your goals will make you a stronger player when it's time to perform against other folks. I enter into tournaments all the time to evaluate what I've been working on. Reddit hosts an online tournment every Monday. I do this as a measure of what I've been working on. Everyone is different though. Competition is not everything. It is just my ninja way.
 
 
-### <a name="head6"></a>6. Sharpen reactions
+### <a name="head7"></a>7. Sharpen reactions
 
 This is another thing I need to work on. Go the the lab and set the dummy to either jump in, walk in, press a button, or do a special move. Challenge yourself to counter or successfully nullify their movements consistently.
 
-### <a name="head7"></a>7. Learn matchups in detail
+### <a name="head8"></a>8. Learn matchups in detail
 
 With every level, there's a different devel. This is step is where you figure out that the rabbit hole goes deep. I'd generally start with myself and my character. What attacks are plus on block? How does my hurtbox behave when throwing out a certain move? At what range does my character operate most effectively? Answering these questions will help you develop a sense of self-awareness on what you should and shouldn't do.
     
 I'll go on down the list of opponenents I have faced and for each one try and figure out how my character can correctly respond with an opponents array of moves. The goal is to get to the point where you can automatically recognize what buttons you should rely on most and how you can use characters strengths to overcome the opponent. For instance, I recently learned more about the Ken Vs. JP matchup. Ken's effective range is just outside of his stHK range because JP dominates with his stHP and OD ghost. So maintaining space and rotating all the options Ken has to bully an opponent at that range is best. It'd be different than someone like Akuma or even Jamie.
 
-### <a name="head8"></a>8. Accept responsibility
+### <a name="head9"></a>9. Accept responsibility
  
 Accept responsibility and hold yourself accountable for your own decisions and actions. Don't hesitate to ask questions all day. However, relying on the phrase "I haven't learned that yet" or "No one told me about that" will only take a player so far. It's best to approach the game with the philosphy of, "Play as if you are a master, but learn like you are a student."
