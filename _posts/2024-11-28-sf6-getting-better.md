@@ -31,7 +31,7 @@ In order to get better you have to put in the time and effort. That means actual
 
 Then there's the holy trinity where you should spend your time playing. 1. Battle Lounge. 2. Ranked. 3. Training Mode. Split your time evenly across these 3 modes because each one feeds on the other. 
 
-Before setting out this journey, understand that you're just starting out so don't be hard on yourself. Maybe you already got a little time under your belt. Now let's take MenaRD. The GOAT of street fighter. He's most definitely got 10,000+ hours in the game. Imagine the pie chart where there are 2 sections that represent yours and his next to each other. Your 1% sliver versus his 99% chonk. You can easily visualize why you shouldn't be hard on yourself because he has put the time in to this than you have.
+Lastly, understand the importance of not being too hard on yourself. Maybe you already got a little time under your belt. Now let's take MenaRD. The GOAT of street fighter. He's most definitely got 10,000+ hours in the game. Imagine the pie chart where there are 2 sections that represent yours and his next to each other. Your 1% sliver versus his 99% chonk. You can easily visualize why you shouldn't be hard on yourself because he has put the time in to this than you have.
 
 ### <a name="head2"></a>Step 2. Study your replays
 
