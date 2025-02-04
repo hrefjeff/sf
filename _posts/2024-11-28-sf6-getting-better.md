@@ -12,12 +12,12 @@ Without further ado, here is how we get better at SF6:
 
 Step 1. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head1)<br>
 Step 2. [Just play lol](#head2)<br>
-Step 3. [Study your replays](#head3)<br>
-Step 4. [Search for replays](#head4)<br>
-Step 5. [Find a favorite to learn from](#head5)<br>
-Step 6. [Take notes/set goals](#head6)<br>
-Step 7. [Muscle memory drills](#head7)<br>
-Step 8. [Sharpen your reactions](#head8)<br>
+Step 3. [Character guides](#head3)<br>
+Step 4. [Study your replays](#head4)<br>
+Step 5. [Search for replays](#head5)<br>
+Step 6. [Find a favorite to learn from](#head6)<br>
+Step 7. [Take notes/set goals](#head7)<br>
+Step 8. [Muscle memory drills](#head8)<br>
 Step 9. [Learn matchups in detail](#head9)<br>
 Step 10. [Accept responsibility](#head10)<br>
 
