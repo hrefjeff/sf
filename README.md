@@ -8,7 +8,7 @@ A simple blog that describes my journey in Street Fighter.
 
 [PC SF6 Profile](https://www.streetfighter.com/6/buckler/profile/1529206067): 1529206067
 
-[PC SF6 Profile](https://www.streetfighter.com/6/buckler/profile/3502134289): 3502134289
+[Playstation SF6 Profile](https://www.streetfighter.com/6/buckler/profile/3502134289): 3502134289
 
 ### SF5
 
