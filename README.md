@@ -6,11 +6,15 @@ A simple blog that describes my journey in Street Fighter.
 
 ### SF6
 
-[SF6 Profile](https://www.streetfighter.com/6/buckler/profile/1529206067): 1529206067
+[PC SF6 Profile](https://www.streetfighter.com/6/buckler/profile/1529206067): 1529206067
+
+[PC SF6 Profile](https://www.streetfighter.com/6/buckler/profile/3502134289): 3502134289
 
 ### SF5
 
-[boomiFGC_PC](https://game.capcom.com/cfn/sfv/profile/boomiFGC_PC?lang=en) and here [boomi_ps5](https://game.capcom.com/cfn/sfv/profile/boomi_ps5?lang=en)
+[boomiFGC_PC](https://game.capcom.com/cfn/sfv/profile/boomiFGC_PC?lang=en)
+
+[boomi_ps5](https://game.capcom.com/cfn/sfv/profile/boomi_ps5?lang=en)
 
 ## Develop locally
 
