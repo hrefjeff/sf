@@ -16,8 +16,8 @@ Step 3. [Character guides](#head3)<br>
 Step 4. [Study your replays](#head4)<br>
 Step 5. [Search for replays](#head5)<br>
 Step 6. [Find a favorite to learn from](#head6)<br>
-Step 7. [Take notes/set goals](#head7)<br>
-Step 8. [Muscle memory drills](#head8)<br>
+Step 7. [Muscle memory drills](#head7)<br>
+Step 8. [Take notes/set goals](#head8)<br>
 Step 9. [Learn matchups in detail](#head9)<br>
 Step 10. [Accept responsibility](#head10)<br>
 
