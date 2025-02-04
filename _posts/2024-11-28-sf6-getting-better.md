@@ -13,13 +13,13 @@ Without further ado, here is how we get better at SF6:
 Step 1. [GO TO YOUR LOCAL FIGHTING GAME MEETUPS!](#head1)<br>
 Step 2. [Just play lol](#head2)<br>
 Step 3. [Character guides](#head3)<br>
-Step 4. [Study your replays](#head4)<br>
-Step 5. [Search for replays](#head5)<br>
-Step 6. [Find a favorite to learn from](#head6)<br>
-Step 7. [Muscle memory drills](#head7)<br>
-Step 8. [Take notes/set goals](#head8)<br>
-Step 9. [Learn matchups in detail](#head9)<br>
-Step 10. [Accept responsibility](#head10)<br>
+Step 4. [Search and study your replays](#head4)<br>
+Step 5. [FAT & Ultimate Frame Data](#head5)<br>
+Step 6. [Find a favorite to learn from](#head5)<br>
+Step 7. [Muscle memory drills](#head6)<br>
+Step 8. [Take notes/set goals](#head7)<br>
+Step 9. [Learn matchups in detail](#head8)<br>
+Step 10. [Accept responsibility](#head9)<br>
 
 ### <a name="head1"></a>Step 1. GO TO YOUR LOCAL FIGHTING GAME MEETUPS!
 
@@ -39,7 +39,15 @@ Lastly, understand the importance of not being too hard on yourself. Maybe you a
 
 They added the advanced strategy guides after the basics are understood. For Akuma, they go into letting you know how to stop your opponents from retaliating! "Throw out an attack and wait for their reaction. Instead of getting jumped in on, or drive impacted, you'll have the necessary time to act accordingly." It's great stuff.
 
-### <a name="head4"></a>Step 4. Study your replays
+### <a name="head4"></a>4. Study and search for replays
+
+#### Search replays!
+
+The reality is there's always someone out there better than you. When I started out with SF6 I would search for all the godlike players in the game and try to learn from them. What I ended up finding out myself is that I improved the most when I started viewing replays of someone who is a little bit or moderately more skilled relative to where I was. When I would watch replays of high level players (Grand masters and above when I was a rookie/bronze player), they would make decisions and movements that were completely out of context to me. I couldn't follow their rationale. However, when I started watching replays from a player that was slightly/moderately more skilled than I was I would be able to recognize the flow of situtations. It started becoming a conversation of "Oh snap, I see what he did there. That's smart." Or "Oh they dun goofed. Let's see what play they make to recover." The key to this step is to be honest with yourself and recognize where your current skill level is and then work your way up to higher skill levels.
+    
+If I'm having trouble developing a strategy against a certain character or generally struggling with a match up, I get my ass on Youtube!! Open up youtube and use this search term: "Street fighter 6 _**insert your character name here**_ vs _**insert other character name here**_. There are plenty of people who are eager to upload highlights of them bodying other characters that you can learn from. Also, CFN has this cool search feature in game where you can filter replays by character and league points. It's super helpful and wish I had known about it sooner.
+
+#### Study replays!
 
 Capcom has done amazing with SF6's replay cabilities. They implemented **replay takeover** which gives you the ability to watch a replay and takeover a character in any situation. I'll constantly go to CFN (capcom fighter's network) in the game and watch replays with both of the options "_key display_" and "_frame data_" turned on. Watching replays of your losses provided me a great basis for what I needed to work on. Unless you have 100% life at the end of the round, you always have something to work on.
   
@@ -50,15 +58,15 @@ Capcom has done amazing with SF6's replay cabilities. They implemented **replay 
   * How can I optimize my damage?
   * How did I get into the bad situation in the first place?
 
-### <a name="head5"></a>5. Search for replays
+### <a name="head5"></a>Step 5. FAT & Ultimate Frame Data
 
-The reality is there's always someone out there better than you. When I started out with SF6 I would search for all the godlike players in the game and try to learn from them. What I ended up finding out myself is that I improved the most when I started viewing replays of someone who is a little bit or moderately more skilled relative to where I was. When I would watch replays of high level players (Grand masters and above when I was a rookie/bronze player), they would make decisions and movements that were completely out of context to me. I couldn't follow their rationale. However, when I started watching replays from a player that was slightly/moderately more skilled than I was I would be able to recognize the flow of situtations. It started becoming a conversation of "Oh snap, I see what he did there. That's smart." Or "Oh they dun goofed. Let's see what play they make to recover." The key to this step is to be honest with yourself and recognize where your current skill level is and then work your way up to higher skill levels.
-    
-If I'm having trouble developing a strategy against a certain character or generally struggling with a match up, I get my ass on Youtube!! Open up youtube and use this search term: "Street fighter 6 _**insert your character name here**_ vs _**insert other character name here**_. There are plenty of people who are eager to upload highlights of them bodying other characters that you can learn from. Also, CFN has this cool search feature in game where you can filter replays by character and league points. It's super helpful and wish I had known about it sooner.
-    
+The holy bible of street fighter: FAT! (Frame Assistant Tool). This app is easy to use and has a lot of features beyond frame data including character combos, move lists, and statistics. Be sure to download the <a href="fullmeter.com/fatonline" target="_blank">Frame Assistant Tool here</a>.
+
+<a href="https://ultimateframedata.com/sf6/" target="_blank">Ultimate Frame Data</a> is another tool that you should be familiar with when playing SF6. All moves in the game consist of <a href="https://glossary.infil.net/?t=Hitbox" target="_blank">hitboxes</a> and <a href="https://glossary.infil.net/?t=Hurtbox" target="_blank">hurtboxes</a>. Get familiar with them and abuse the moves that have hitboxes that extend past the hurtboxes!
+
 ### <a name="head6"></a>6. Find a favorite to learn from
 
-Until we are winning premiere and major tournmanets there is always someone better than you and out-hussling you. Learn a lesson from them. I, myself, subscribe to a bunch of people and join their twitch streams/discord chats all the time. It's good practice to view the ways of the world and get an outside perspective. This gets into the social aspect of the game where I describe later.
+Until we are winning premiere and major tournmanets there is always someone better than you and out-hussling you. Learn a lesson from them. I, myself, subscribe to a bunch of people and join their twitch streams/discord chats all the time. It's good practice to view the ways of the world and get an outside perspective.
 
 ### <a name="head7"></a>7. Muscle memory drills
 
